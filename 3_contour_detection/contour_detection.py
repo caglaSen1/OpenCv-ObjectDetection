@@ -1,3 +1,5 @@
+# Contours can be explained simply as a curve connecting all continuous points of the same color or intensity.
+
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
